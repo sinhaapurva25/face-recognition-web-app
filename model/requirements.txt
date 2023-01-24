@@ -1,0 +1,5 @@
+PyWavelets
+opencv-python
+seaborn
+sklearn
+utils
